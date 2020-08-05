@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  width: 90%;
+  height: 20rem;
+  border: 10px solid purple;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  text-align: center;
+  margin: 2rem auto;
+}
